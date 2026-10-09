@@ -5,8 +5,6 @@ lang: en-US
 author: "Jamal Mazrui"
 ---
 
-# AudioVault Directory
-
 This directory contains English-language audio-described movies and TV shows captured from AudioVault. Select a title heading to open its audio-download page.
 
 ## Table of Contents
