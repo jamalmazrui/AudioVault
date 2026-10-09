@@ -1,4 +1,11 @@
-﻿# AudioVault Directory
+---
+title: "AudioVault Directory"
+description: "English-language audio-described movies and TV shows captured from AudioVault"
+lang: en-US
+author: "Jamal Mazrui"
+---
+
+# AudioVault Directory
 
 This directory contains English-language audio-described movies and TV shows captured from AudioVault. Select a title heading to open its audio-download page.
 
