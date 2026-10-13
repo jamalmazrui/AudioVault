@@ -1,5 +1,6 @@
 ---
 title: "AudioVault Directory"
+subtitle: \"A Directory of 2,915 Movies and TV Seasons with Audio Description"
 description: "English-language audio-described movies and TV shows captured from AudioVault"
 lang: en-US
 author: "Jamal Mazrui"
@@ -9,12 +10,19 @@ This directory contains English-language audio-described movies and TV shows cap
 
 ## Table of Contents
 
+- [By the Numbers](#by-the-numbers)
 - [Movies](#movies)
 - [TV Shows](#tv-shows)
 - [Appendix A: Movies by Year](#appendix-a-movies-by-year)
 - [Appendix B: Movies by Genre](#appendix-b-movies-by-genre)
 - [Appendix C: TV Shows by Year](#appendix-c-tv-shows-by-year)
 - [Appendix D: TV Shows by Genre](#appendix-d-tv-shows-by-genre)
+
+## By the Numbers {#by-the-numbers}
+
+- 1,444 movies and 1,471 television seasons and specials.
+- The 2010s lead, with 514 movies; 27% were released in 2020 or later.
+- The oldest movie is from 1930, the newest from 2026.
 
 ## Movies
 
