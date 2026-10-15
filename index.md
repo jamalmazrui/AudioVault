@@ -1,6 +1,6 @@
 ---
 title: "AudioVault Directory"
-subtitle: \"A Directory of 2,915 Movies and TV Seasons with Audio Description"
+subtitle: "A Directory of 2,915 Movies and TV Seasons with Audio Description"
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: "English-language audio-described movies and TV shows captured from AudioVault"
