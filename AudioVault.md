@@ -1,12 +1,16 @@
 ---
 title: "AudioVault Directory"
 subtitle: \"A Directory of 2,915 Movies and TV Seasons with Audio Description"
+license: "CC BY-SA 4.0"
+license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: "English-language audio-described movies and TV shows captured from AudioVault"
 lang: en-US
 author: "Jamal Mazrui"
 ---
 
 This directory contains English-language audio-described movies and TV shows captured from AudioVault. Select a title heading to open its audio-download page.
+
+Each recording belongs to its makers. This directory's own text and arrangement are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Table of Contents
 
